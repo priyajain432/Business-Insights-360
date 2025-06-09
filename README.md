@@ -110,14 +110,6 @@ After project kickoff meetings, the data engineering team provided the following
 - **pre_invoice_deductions**: Customer discounts
 - **post_invoice_deductions**: Payment adjustments
 
-## Data Relationships
-```mermaid
-erDiagram
-    dim_customer ||--o{ fact_sales_monthly : "customer_id"
-    dim_product ||--o{ fact_sales_monthly : "product_code"
-    dim_product ||--o{ manufacturing_cost : "product_code"
-    fact_sales_monthly }|--|| fact_forecast_monthly : "compare"
-
 ## Data Model
 
 *Snowflake schema design with optimized relationships*
