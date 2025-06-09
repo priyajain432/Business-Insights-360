@@ -45,11 +45,6 @@ AtliQ Hardware is experiencing rapid growth and has decided to implement Power B
 4. **Marketing View** - Campaign effectiveness
 5. **Supply Chain View** - Inventory and logistics
 
-## Getting Started
-1. Clone this repository
-2. Open `.pbix` file in Power BI Desktop
-3. Set up your MySQL connection parameters
-4. Refresh data as needed
 
 ## Project Documentation
 
