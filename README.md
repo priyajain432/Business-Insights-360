@@ -124,17 +124,17 @@ The **Home View** acts as the landing page, providing buttons that navigate user
 
 ### 🔹 Available Views
 - **Info**
-![Alt Text](relative/or/absolute/path/to/image.png)
+![Alt Text](https://github.com/priyajain432/Business-Insights-360/blob/955807072e7dccb0e05b7f13b41b60c282ebef73/Executive%20View.png)
 - **Finance View**  
-Finance View.png
+![Alt Text](https://github.com/priyajain432/Business-Insights-360/blob/955807072e7dccb0e05b7f13b41b60c282ebef73/Executive%20View.png)
 - **Sales View**  
-Sales View.png
+![Alt Text](https://github.com/priyajain432/Business-Insights-360/blob/955807072e7dccb0e05b7f13b41b60c282ebef73/Executive%20View.png)
 - **Marketing View**  
-Marketing View.png
+![Alt Text](https://github.com/priyajain432/Business-Insights-360/blob/955807072e7dccb0e05b7f13b41b60c282ebef73/Executive%20View.png)
 - **Supply Chain View**  
-  Supply Chain View.png
+![Alt Text](https://github.com/priyajain432/Business-Insights-360/blob/955807072e7dccb0e05b7f13b41b60c282ebef73/Executive%20View.png)
 - **Executive View**  
-Executive View.png
+![Alt Text](https://github.com/priyajain432/Business-Insights-360/blob/955807072e7dccb0e05b7f13b41b60c282ebef73/Executive%20View.png)
 ---
 
 ## ✅ Project Outcome
