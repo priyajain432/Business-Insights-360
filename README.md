@@ -124,17 +124,17 @@ The **Home View** acts as the landing page, providing buttons that navigate user
 
 ### 🔹 Available Views
 - **Info**
-  
+Home Page.png
 - **Finance View**  
-
+Finance View.png
 - **Sales View**  
-
+Sales View.png
 - **Marketing View**  
-
+Marketing View.png
 - **Supply Chain View**  
-
+  Supply Chain View.png
 - **Executive View**  
-
+Executive View.png
 ---
 
 ## ✅ Project Outcome
