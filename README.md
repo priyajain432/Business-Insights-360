@@ -124,7 +124,7 @@ The **Home View** acts as the landing page, providing buttons that navigate user
 
 ### 🔹 Available Views
 - **Info**
-Home Page.png
+![Alt Text](relative/or/absolute/path/to/image.png)
 - **Finance View**  
 Finance View.png
 - **Sales View**  
