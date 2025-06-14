@@ -106,4 +106,38 @@ AtliQ Hardware is a global computer and accessories retailer operating through:
 - 💵 gross_price: Product pricing  
 - 🏭 manufacturing_cost: Production costs  
 - ➖ pre_invoice_deductions: Customer discounts  
-- ➖ post_invoice_deductions: Payment adjustments  
+- ➖ post_invoice_deductions: Payment adjustments
+
+- ---
+
+## 🏗️ Data Modeling
+Data modeling serves as the basement of this report. A well-structured model is essential for performance and reliability. Poor data modeling can drastically reduce report efficiency. 
+
+In this project, we follow the **Snowflake schema** to normalize data, reduce redundancy, and optimize performance.
+
+---
+
+## 🎨 Dashboard Design
+Based on stakeholder mock-ups, the dashboard suite is cleanly designed, focusing on usability and interactivity. All key performance indicators (KPIs) are measured using DAX logic and conditional formatting.
+
+The **Home View** acts as the landing page, providing buttons that navigate users to specific dashboard views:
+
+### 🔹 Available Views
+- **Info**
+  
+- **Finance View**  
+
+- **Sales View**  
+
+- **Marketing View**  
+
+- **Supply Chain View**  
+
+- **Executive View**  
+
+---
+
+## ✅ Project Outcome
+With this report, key business decisions are driven by data insights. From department-specific KPIs to overall company performance, the dashboards help answer many "why" questions that support strategic initiatives.
+
+---
