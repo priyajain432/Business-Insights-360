@@ -122,18 +122,26 @@ Based on stakeholder mock-ups, the dashboard suite is cleanly designed, focusing
 
 The **Home View** acts as the landing page, providing buttons that navigate users to specific dashboard views:
 
-### 🔹 Available Views
-- **Info**
-![Alt Text](https://github.com/priyajain432/Business-Insights-360/blob/955807072e7dccb0e05b7f13b41b60c282ebef73/Executive%20View.png)
-- **Finance View**  
-![Alt Text](https://github.com/priyajain432/Business-Insights-360/blob/955807072e7dccb0e05b7f13b41b60c282ebef73/Executive%20View.png)
-- **Sales View**  
-![Alt Text](https://github.com/priyajain432/Business-Insights-360/blob/955807072e7dccb0e05b7f13b41b60c282ebef73/Executive%20View.png)
-- **Marketing View**  
-![Alt Text](https://github.com/priyajain432/Business-Insights-360/blob/955807072e7dccb0e05b7f13b41b60c282ebef73/Executive%20View.png)
-- **Supply Chain View**  
-![Alt Text](https://github.com/priyajain432/Business-Insights-360/blob/955807072e7dccb0e05b7f13b41b60c282ebef73/Executive%20View.png)
-- **Executive View**  
+### 🔹 Dashboard Views
+
+### 🏠 Home Page
+![Home Page](https://github.com/priyajain432/Business-Insights-360/blob/af7385e9ebc338bdfef738f142fa8ca1c538ca1a/Home%20Page.png?raw=true)
+
+### 📈 Marketing View
+![Marketing View](https://github.com/priyajain432/Business-Insights-360/blob/af7385e9ebc338bdfef738f142fa8ca1c538ca1a/Marketing%20View.png?raw=true)
+
+### 📊 Sales View
+![Sales View](https://github.com/priyajain432/Business-Insights-360/blob/af7385e9ebc338bdfef738f142fa8ca1c538ca1a/Sales%20View.png?raw=true)
+
+## 📊 Finance View
+
+![Finance View](https://github.com/priyajain432/Business-Insights-360/blob/af7385e9ebc338bdfef738f142fa8ca1c538ca1a/Finance%20View%20.png?raw=true)
+
+## 🏭 Supply Chain View
+![Supply Chain View](https://github.com/priyajain432/Business-Insights-360/blob/af7385e9ebc338bdfef738f142fa8ca1c538ca1a/Supply%20Chain%20View.png?raw=true)
+
+## 📊 Executive View
+
 ![Alt Text](https://github.com/priyajain432/Business-Insights-360/blob/955807072e7dccb0e05b7f13b41b60c282ebef73/Executive%20View.png)
 ---
 
